@@ -34,7 +34,7 @@ a, a:visited {
   width: 100%;
 }
 .hero {
-  background: #000 url("../img/hero.png") 50% 50%; 
+  background: #000 url("../img/hero.png") center top; 
   color: #fff; 
   font-size: 20px;
   margin-bottom: 20px; 
@@ -67,6 +67,11 @@ a, a:visited {
 .work .fa, .join .fa {
   font-size: 80px;
   margin: 10px;
+}
+.manual img {
+  height: auto;
+  max-width: 300px;
+  width: 100%;
 }
 .join {
   padding-bottom: 50px;
