@@ -34,7 +34,8 @@ a, a:visited {
   width: 100%;
 }
 .hero {
-  background: #000 url("../img/hero.png") center top; 
+  background: #000 url("../img/hero.png") no-repeat center top;
+  background-size: cover;
   color: #fff; 
   font-size: 20px;
   margin-bottom: 20px; 
