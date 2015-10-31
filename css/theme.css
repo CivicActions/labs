@@ -1,7 +1,7 @@
 body {
   color: #000;
   font-family: 'Lato', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
 }
 h1, h2, h3 {
   color: #000000;
@@ -69,6 +69,9 @@ a, a:visited {
   font-size: 80px;
   margin: 10px;
 }
+.manual {
+  padding-bottom: 40px;
+}
 .manual img {
   height: auto;
   max-width: 300px;
@@ -80,6 +83,7 @@ a, a:visited {
 .footer {
   background: #ed1b24;
   color: #fff;
+  margin-bottom: 20px;
   padding-bottom: 20px;
   padding-top: 50px;
 }
