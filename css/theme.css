@@ -65,9 +65,12 @@ a, a:visited {
 .work h2, .work a {
   color: #fff;
 }
-.work .fa, .join .fa {
+.in-progress .fa, .work .fa, .join .fa {
   font-size: 80px;
   margin: 10px;
+}
+.in-progress p {
+  font-size: 80%;
 }
 .manual {
   padding-bottom: 40px;
